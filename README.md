@@ -6,3 +6,11 @@
 <img src="./img/imagem.png" />
 <h2>Código: </h2>
 <img src="./img/codigo.png" />
+
+
+<h2>Lingugens: </h2>
+<p>~HTML</p>
+<p>~PHP</p>
+<p>~CSS</p>
+<h2>framework: </h2>
+<p>~Bootstrap</p>
